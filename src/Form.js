@@ -3,7 +3,7 @@ import logo from './static/logo_labentana.png';
 import './App.css';
 import './styles.css'; // Import the styles.css file
 
-function App() {
+function Form() {
   return (
 
     <div className="bg-gray-100">
@@ -39,4 +39,4 @@ function App() {
   );
 }
 
-export default App;
+export default Form;
